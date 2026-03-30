@@ -27,8 +27,7 @@
 
 # 4 Linkedin Post
 > Submit the LinkedIn post URL
-> 
-> [LinkedIn post URL]
+> https://www.linkedin.com/posts/tharunkumar-r-743b62271_modernsoftwaredevelopment-github-portfoliodevelopment-ugcPost-7444273953352843265-7GzD?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEKOi6MB4Jfsi9lau_iYXI2nnlZCyHbZmJg
 
 ## For Second Year Buddies
 
