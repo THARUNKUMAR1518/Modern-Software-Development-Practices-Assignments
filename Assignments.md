@@ -12,7 +12,6 @@
 
 # 2 Individual Project: Personal Portfolio
 > Personal Portfolio Project
->https://tharunramesh.vercel.app/
 > - Kindly submit the GitHub Repo URL
 >https://github.com/THARUNKUMAR1518/AIML-One-Credit
 > - Kindly submit the Vercel Deployment URL
@@ -22,12 +21,12 @@
 
 # 3 Team Project: AI Full Stack Application
 > Team Project: AI Full Stack Application
->
 > - Kindly submit the GitHub Repo URL
->
+>https://github.com/SAKTHIVEL280/taskflow
 > - Kindly submit the Live Application URL (Domain)
->
+>https://taskflow.daeq.in/
 > - Kindly submit the GitHub Pages (Documentation) URL
+> - https://sakthivel280.github.io/taskflow/
 
 # 4 Linkedin Post
 > Submit the LinkedIn post URL
