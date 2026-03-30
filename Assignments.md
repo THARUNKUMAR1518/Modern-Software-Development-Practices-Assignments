@@ -5,7 +5,7 @@
 > Kindly submit the verification link here https://verify.skilljar.com/c/ctevzh7mmvm2
 > - Introduction to Agent Skills
 > Kindly submit the verification link here https://verify.skilljar.com/c/5gemups7am63
-> Kindly upload the certifications PDF in Google Drive Link https://drive.google.com/drive/folders/1YE8yuX3uQLkhUCUZLCpVU3GZhIBd4T9R?usp=sharing
+> - Kindly upload the certifications PDF in Google Drive Link https://drive.google.com/drive/folders/1YE8yuX3uQLkhUCUZLCpVU3GZhIBd4T9R?usp=sharing
 
 # 2 Individual Project: Personal Portfolio
 > Personal Portfolio Project
